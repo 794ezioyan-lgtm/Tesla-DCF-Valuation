@@ -95,7 +95,7 @@ The forecasting framework considers product introduction timing, initial deliver
 
 ### Vehicle Delivery Model
 
-<img src="deliveries.png" width="700">
+<img src="Delivery.png" width="850">
 
 ### Average Selling Price Development
 
@@ -122,7 +122,7 @@ Revenue scenarios incorporate alternative assumptions to assess the impact of ch
 
 ### Automotive Revenue Model
 
-<img src="revenue.png" width="700">
+<img src="auto_R.png" width="850">
 
 ### Cost of Sales & Gross Profit
 
@@ -136,13 +136,6 @@ Cost of Sales = Automotive Revenue − Gross Profit
 
 The model incorporates different margin assumptions across vehicle categories, reflecting differences in pricing and production economics.
 
-### Automotive Cost of Sales
-
-<img src="cogs.png" width="700">
-
-### Automotive Gross Profit
-
-<img src="gross_profit.png" width="700">
 
 **Key insight:** Automotive profitability depends on the combination of delivery volume, realized selling prices and manufacturing margins. Revenue growth alone does not determine operating profitability.
 
@@ -208,7 +201,7 @@ Depreciation is projected through an asset-life schedule, allowing capital expen
 
 ### PP&E & Depreciation Schedule
 
-<img src="PPE.png" width="700">
+<img src="PP&E.png" width="850">
 
 
 ---
@@ -249,7 +242,7 @@ Revenue from automotive and non-automotive operations is combined with cost of s
 
 ### Income Statement
 
-<img src="PL.png" width="700">
+<img src="IS-T.png" width="850">
 
 ### Balance Sheet
 
@@ -259,7 +252,7 @@ The model connects supporting schedules to projected financial position and incl
 
 ### Balance Sheet
 
-<img src="BS.png" width="700">
+<img src="BS-T.png" width="850">
 
 
 ---
@@ -325,7 +318,7 @@ The terminal value contributes approximately 51% of estimated enterprise value.
 
 ### DCF Valuation Model
 
-<img src="DCF.png" width="700">
+<img src="DCF-T.png" width="850">
 
 
 ---
