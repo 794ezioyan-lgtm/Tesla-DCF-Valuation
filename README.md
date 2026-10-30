@@ -343,8 +343,5 @@ The terminal value contributes approximately 51% of estimated enterprise value.
 
 The workbook includes vehicle delivery forecasts, average selling prices, automotive revenue and cost of sales, energy and other operations, operating expenses, PP&E, working capital, financing, financial statements, WACC and DCF valuation.
 
-**Project Screenshots**
-
-Selected screenshots illustrate the development of the model from operating assumptions through financial forecasts and enterprise valuation.
 
 ---
